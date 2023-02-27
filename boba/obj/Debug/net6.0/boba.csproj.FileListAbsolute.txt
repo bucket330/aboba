@@ -1,0 +1,15 @@
+C:\Users\peter woodmansey\source\repos\boba\boba\bin\Debug\net6.0\boba.exe
+C:\Users\peter woodmansey\source\repos\boba\boba\bin\Debug\net6.0\boba.deps.json
+C:\Users\peter woodmansey\source\repos\boba\boba\bin\Debug\net6.0\boba.runtimeconfig.json
+C:\Users\peter woodmansey\source\repos\boba\boba\bin\Debug\net6.0\boba.dll
+C:\Users\peter woodmansey\source\repos\boba\boba\bin\Debug\net6.0\boba.pdb
+C:\Users\peter woodmansey\source\repos\boba\boba\obj\Debug\net6.0\boba.csproj.AssemblyReference.cache
+C:\Users\peter woodmansey\source\repos\boba\boba\obj\Debug\net6.0\boba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter woodmansey\source\repos\boba\boba\obj\Debug\net6.0\boba.AssemblyInfoInputs.cache
+C:\Users\peter woodmansey\source\repos\boba\boba\obj\Debug\net6.0\boba.AssemblyInfo.cs
+C:\Users\peter woodmansey\source\repos\boba\boba\obj\Debug\net6.0\boba.csproj.CoreCompileInputs.cache
+C:\Users\peter woodmansey\source\repos\boba\boba\obj\Debug\net6.0\boba.dll
+C:\Users\peter woodmansey\source\repos\boba\boba\obj\Debug\net6.0\refint\boba.dll
+C:\Users\peter woodmansey\source\repos\boba\boba\obj\Debug\net6.0\boba.pdb
+C:\Users\peter woodmansey\source\repos\boba\boba\obj\Debug\net6.0\boba.genruntimeconfig.cache
+C:\Users\peter woodmansey\source\repos\boba\boba\obj\Debug\net6.0\ref\boba.dll
